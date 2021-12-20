@@ -1,0 +1,589 @@
+{
+    "cards": [
+        {
+            "cardType": "simple,",
+            "title": "Drink",
+            "description": "You must take a sip"
+        },
+        {
+            "cardType": "simple,",
+            "title": "Make it double",
+            "description": "You must take 2 sips"
+        },
+        {
+            "cardType": "simple,",
+            "title": "Another Round",
+            "description": "Everyone must take a sip."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Clusterfuck",
+            "description": "Flip a coin. If you get heads, then each player takes 1 sip. On the other hand if you get tails you take a sip as many times as there are people in the room."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Bros before hoes",
+            "description": "All female players must drink. If there are no female players, then boys take a shot"
+        },
+        {
+            "cardType": "simple,",
+            "title": "Hair on your chest",
+            "description": "You must take a shot"
+        },
+        {
+            "cardType": "simple,",
+            "title": "Topsy Turvy",
+            "description": "Hah! , good luck. Everyone touch your toes without bending your knees. Those who can't must take a sip."
+        },
+        {
+            "cardType": "simple,",
+            "title": "The confessional",
+            "description": "The person that has most recently had sex must drink. It was nice when you called me daddy yesterday."
+        },
+        {
+            "cardType": "simple,",
+            "title": "My life is so hard",
+            "description": "Whine about an ex, then drink. I know you want to."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Macho Man",
+            "description": "You must select a player to arm-wrestle. Winner takes 1 sip and loser takes 4 sips."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Chest to chest",
+            "description": "You must take 2 sips for each female player in the room. If there are no female players in the room, finish your drink."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Winner winner cock dinner",
+            "description": "The last person to say, 'I love cock', must take a sip for each cock in the room."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Peace Treaty",
+            "description": "Everyone looses in a war, tough some loose more. Everyone take 2 sips, but you totally lost the war, finish your glass or take a shot."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Monkey Punch",
+            "description": "Monkee see, monkee do. Finish your glass. If someone doesn't have a drink,. the first player to finish can punch them in the arm."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Wonder twins",
+            "description": "Choose another player to fist bump as you say, Wonder Twin Powers, Activate!. All other players take a sip, unless you are not in sync, then you must take 2 sips."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Molotov Cocktail",
+            "description": "Oh, no! Looks like you dropped your molly, thankfully the C. S. G. O. gods are with you and it does not spread far. You must take 2 sips and the person to your left and right must take 1 sip."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Molly out",
+            "description": "Ohh, no! Looks like you dropped your molly, the C. S. G. O. gods aren't with you now and it spreads far. You must drink 3 sips, each person next to you must take 2 sips and the person next to them 1."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Deal with the devil",
+            "description": "You must take a shot. Now your soul is mine!, hehe hoho haha, but you can give any 2 players 5 sips and you can skip your next punishment."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Musical Chairs",
+            "description": "Everyone must stand up and sit down in the seat to their right."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Navy SEALS training",
+            "description": "A player of your choosing can't breathe, until they have taken 8 sips."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Freaks",
+            "description": "The tallest and shortest players must toast to their freakish heights and take a sip."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Shark bait",
+            "description": "All players with red hair, must take a sip, for the number of redheads in the room."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Monkey Hair",
+            "description": "The hairiest player must take 2 sips."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Nice cock",
+            "description": "You have a nice cock. Take 4 sips."
+        },
+        {
+            "cardType": "simple,",
+            "title": "The David Blaine",
+            "description": "Everyone must hold their breath. The first one to breathe has to take 3 sips."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Designated driver",
+            "description": "Everyone who cannot show a valid driver's license must take a sip."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Good samaritan",
+            "description": "Choose 1 player to give your phone to. That person must dial someone in your conctacts list, (preferably someone who wouldn't recognize them).\\nIf the person answers: Tell them you found this phone and ask them if they know who owns it."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Drunk Dial",
+            "description": "Choose 1 person that either currenlty is or recently has been in a relationship. They must call their partner or ex.\\nDuring the call they should act really drunk, call the person on the phone mom or dad and ask them why the floor is upside down"
+        },
+        {
+            "cardType": "simple,",
+            "title": "Good morning",
+            "description": "You must loudly moan with pleasure. Ohh. Yeah. Daddy. Harder! Ahh. Ahhhhh"
+        },
+        {
+            "cardType": "simple,",
+            "title": "Metal detector",
+            "description": "Whoever has the most piercings must drink."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Rock paper scissors",
+            "description": "Pick a player to play rock-paper-scissors with. Looser take 2 sips. For a tie everyone else must drink."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Winter Olympics",
+            "description": "Choose a player. He must stand on one foot, and stick his arms out, while you pour his drink in his mouth. If you fail, you both have to take a shot."
+        },
+        {
+            "cardType": "wait,",
+            "title": "Blowjob",
+            "description": "Choose a player. He must give you a blowjob. Mmm. Yes. I like this. I am kidding, you must take a shot using only your mouth."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Body shot",
+            "description": "You must select a player. That player must take a body-shot off you. If either player rejects you both take 2 shots."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Sobriety test",
+            "description": "Whoop, Whoop! The police got you. Stick your arms out, stand on one foot, and close one eye. Stand like this for 15 seconds. If you fail you must take 2 sips. If you succeed everyone else takes 4 sips."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Tornado",
+            "description": "Everyone stands up. You spin around once and drink once, the person to your left spins twice and drinks twice, and so on until it comes back to you."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Easy Access",
+            "description": "Any player with their legs crossed must take a sip."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Flunk the junk",
+            "description": "Any player that doesn't have their legs crossed must take a sip."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Madness",
+            "description": "Everyone stand up and start shouting war cries. Finish your drinks, one at a time. When everyone has finished their drinks, everyone takes a shot. When each player has taken a shot, you may stop the war cries."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Bottoms Up",
+            "description": "Pick a person, to guess the color of your underwear. If this color appears anywhere on your underwear, you take 2 sips."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Fallen Soldier",
+            "description": "Choose a payer, he must take a shot and then fall off his chair."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Piggyback",
+            "description": "Choose a player, until it's your turn again each time he drinks you drink as much as he."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Zombie Jesus",
+            "description": "All players who belive in God must take a sip."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Cheap alcohol",
+            "description": "The player with the least amount in his glass, must top it up with water."
+        },
+        {
+            "cardType": "simple,",
+            "title": "A Little Captain In You",
+            "description": "Everyone must quickly strike the Captain Morgan pose. Last one to captain must take a sip."
+        },
+        {
+            "cardType": "simple,",
+            "title": "The St. Bernard",
+            "description": "You must lie motionless on your back. Everyone else must walk on 4 feet and pour a drink into your mouth."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Like a Pussy",
+            "description": "You must purr and lick your glass with each sip you take. If you forget to do that you must take another sip. This lasts for a whole round."
+        },
+        {
+            "cardType": "simple,",
+            "title": "The President",
+            "description": "In each turn for a whole round, select another player to take a sip."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Beast of Burden",
+            "description": "You must drink double the normal amount for 2 rounds."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Vengeance",
+            "description": "Select a player. Everytime he drinks everyone else drinks. This effect lasts for 2 rounds."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Thumb War",
+            "description": "Select a player. Each time he has to drink, everyone else has to place their thumb on a flat surface. The last one to do so has to take a sip. Lasts 2 rounds."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Disease",
+            "description": "You must take a sip when it's your turn for 3 rounds."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Handicap",
+            "description": "For 2 rounds, everytime you have to drink or take a shot you only have to take 1 sip."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Lefty",
+            "description": "You must play with your dominant hand behind your back for 2 rounds. If you use it, take a sip. "
+        },
+        {
+            "cardType": "simple,",
+            "title": "Suicidal Serial Killer",
+            "description": "You must touch 3 players. These players take a shot and you take 2 shots."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Cleaning lady",
+            "description": "You must take all empty containers, and put them in the trash."
+        },
+        {
+            "cardType": "simple,",
+            "title": "The Butler",
+            "description": "Everyone with less than half a glass must finish their drink, say 'ding ding' and you should give them a new drink."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Slave",
+            "description": "Choose a player. Each time you have to drink you can tell that player to drink instead."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Superhero",
+            "description": "For a whole round, you have to strike a superhero pose and command the player, that has to drink, to drink."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Der Fuhrer",
+            "description": "For a whole round you must talk like Hitler, and everyone must sieg heil each time they drink."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Crybaby",
+            "description": "You must start crying and take 2 sips."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Baywatch",
+            "description": "You must move, talk, and, drink in slow motion."
+        },
+        {
+            "cardType": "simple,",
+            "title": "OMG OMG OMG OMG",
+            "description": "You must act very excited about everything for 3 rounds."
+        },
+        {
+            "cardType": "simple,",
+            "title": "What is that",
+            "description": "If you can get 1 player to look at the ceiling he must take a sip."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Senor Arriba",
+            "description": "Select 2 players. They must both take 3 sips and then high-five."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Dr. Shots-a-Lot",
+            "description": "You choose a nickname for yourself. Anyone who refers to you by your real name has to take a sip. Lasts for 2 rounds."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Waterfall",
+            "description": "You know what this is! I trust you to start."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Question Master",
+            "description": "Try to get someone to answer a question, if you are successful the victim has to take 3 sips."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Yo Momma",
+            "description": "You should tell as many yo, mama, jokes as you can for the next 2 rounds."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Oath",
+            "description": "You may not speak to anyone for 2 rounds."
+        },
+        {
+            "cardType": "simple,",
+            "title": "CAPS LOCK",
+            "description": "YOU MUST SHOUT EVERYTHING FOR 2 ROUNDS"
+        },
+        {
+            "cardType": "simple,",
+            "title": "Pride Parade",
+            "description": "You must act, and talk, as gay as possible for 1 round."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Master Race",
+            "description": "All blonde players must take a sip. Blue-eyed players must take a sip. Oh! and if you are both then take 5 sips."
+        },
+        {
+            "cardType": "simple,",
+            "title": "It's not lupus",
+            "description": "Go around in a circle and name diseases. First player to fail must take 2 sips. If you name COVID-19 take a shot."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Don't Tails Me Bro",
+            "description": "You  must flip a coin until you get two heads in a row. For each tails you take a sip."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Ministry of Silly Walks",
+            "description": "Selected player must walk around in a silly manner. Everyone else takes a sip."
+        },
+        {
+            "cardType": "simple,",
+            "title": "The Mature Argument",
+            "description": "For a whole round everyone must mock you. They must immitade your speech and actions in an exaggerated manner."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Cup size",
+            "description": "You must drink from the largest cup or container available."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Nic Fury",
+            "description": "Everyone who has used nicotine in the past 3 months must take 2 sips. If anyone is currently using nicotine he or she has to take 5 sips."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Prarie Oyster",
+            "description": "All of the other players must create a shot with 1 unusual ingredient and you must drink it. You can't know the ingredient, if you guesses the ingredient all the other playrs must take a shot."
+        },
+        {
+            "cardType": "simple,",
+            "title": "The Enabler",
+            "description": "Last player to get their pants around their ankles must take 2 sips."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Araccuracy",
+            "description": "You have 10 seconds to draw a spider with a smiley face. You must draw the correct amount of legs. If you succeed everyone must take a sip, if not, you take a sip for each player."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Charging My Lazer",
+            "description": "You must get a new empty glass. Each time you have to drink you pour that amount into the new glass and after 2 rounds you chugg that shit."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Enjoy Your Hand",
+            "description": "All single players must take a sip."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Come to Daddy",
+            "description": "Youngest player must sit on the oldest players lap for 1 round."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Cold in here",
+            "description": "You must choose 3 players that should fetch 1 icecube each and place them under your clothes."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Baby Got Back",
+            "description": "Everyone must spank you."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Stare of Death",
+            "description": "Select a player to compete in a staring contest. The loser takes 2 sips."
+        },
+        {
+            "cardType": "simple,",
+            "title": "The Sundial",
+            "description": "You must go outside, and run 10 circles, then take a sip."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Tongue Tied",
+            "description": "You must recite a tongue twister in your native language. If you mess up you must drink twice."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Watering Hole",
+            "description": "Somebody has to pour a drink into your hands. You must then drink it. If you spill any you must finish your drink."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Wall-E",
+            "description": "You must make out with or hump, a poster, object, or wall, for at least 15 seconds."
+        },
+        {
+            "cardType": "simple,",
+            "title": "4 eyes",
+            "description": "Everyone with glasses must take a sip for each plus or minus they have on each eye. Those wearing contacts drink double that. Don't try to hide your eyeball failure."
+        },
+        {
+            "cardType": "named,",
+            "title": "Drunken Sailor",
+            "description": "You must swear like a mother-fucking cock-ass son of a goddamn bitch. Cunting shit-piss ball sniffer, fucking shit-piss; fuck you. Shit piss fuck cunt cock-sucker motherfucker and tits. Fart turd twat asshole god damn it son of a bitch."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Piss Warrior",
+            "description": "The last player who went to the bathroom must drink half of their glass."
+        },
+        {
+            "cardType": "simple,",
+            "title": "The Stiff Upper Lip",
+            "description": "You must balance a coin on your nose for a whole round. Everytime you drop it, you must take a sip."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Fuck! He does.",
+            "description": "At anytime you may say 'Fuzzy duck, ducky fuzz' . The last player to repeat it or fails to say it correctly must take a sip. You may only use this once."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Dancer In the Dark",
+            "description": "You and some other player must dance sensually and slowly to any song."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Jiggle Circus",
+            "description": "Everyone listen up. Say 'BOOBS'. The player who said it last must take a sip. For every fake tits in the room his sips are doubled."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Aw Nuts",
+            "description": "You must take 1 sip for each testicle in the room."
+        },
+        {
+            "cardType": "simple,",
+            "title": "You're my man now",
+            "description": "Whoever's birthday is soonest must take a sip for each remaining month. If it's someone's birthday, they take a shot."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Tickle Me Elmo",
+            "description": "Eveyone in dark clothes must sob pathetically and take 2 sips."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Hey Mom!",
+            "description": "This one is for everyone. If anyone has walked in on you while doing any sexual act, take a sip."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Globetrotters",
+            "description": "Every player takes a sip for each continent they've been to. If they've been to more than 6 they must take a shot."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Mister uh..",
+            "description": "You may not call anyone by their real name for 3 rounds. For each time you screw up you take a sip."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Golden Tongue",
+            "description": "Each plyer must take a sip for every language they speak. If anyone only knows 1 language they take a shot."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Rim Job",
+            "description": "Choose a player to toss small candy into a glass 2 meters away. If they make it everyone take a sip. If they miss they must take a sip for each player."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Guilty Pleasures",
+            "description": "Each player must take a sip for everytime they masturbated in the last week, if they've had sex they also take a shot for each time they've had sex in the last week."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Gold Digga",
+            "description": "Anyone with more than 15 euros in their wallet must drink, facilitating the Proletatiat Revolution."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Sucker",
+            "description": "You must drink with a straw for the next 3 rounds. If you can't find one take a shot."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Foreign Revenge",
+            "description": "Everyone except foreigners must take a sip."
+        },
+        {
+            "cardType": "simple,",
+            "title": "The Gimp",
+            "description": "You may not talk at all for the next 2 rounds. You may only gesture and give out muffled grunting sounds."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Elephant in the Room",
+            "description": "If anyone at the table has fucked anyone else at the table, they must both take 2 sips as they look each other in the eye."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Psychonaut",
+            "description": "The player who has done the most recreational drugs must take 2 sips. They probably won't mind. Dude, pass me the blunt!"
+        },
+        {
+            "cardType": "simple,",
+            "title": "Coming Prepared",
+            "description": "Anyone who can't present a condom must drink. Anyone with a used condom may select an extra player to drink."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Toy Story",
+            "description": "Any player who has used any sort of toy, sexually, must take a sip."
+        },
+        {
+            "cardType": "simple,",
+            "title": "Stand-Up Obedient",
+            "description": "You must tell a joke. If anyone laughs, everyone except you takes a sip. If you fail to get anyone to laugh you take a shot."
+        }
+    ]
+}
